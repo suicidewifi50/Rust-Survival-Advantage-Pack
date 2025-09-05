@@ -75,3 +75,4 @@ Packed with features like **Aimbot, ESP, Wallhack, No Recoil, Resource ESP, Rada
 | **Stream-safe?**                 | Yes, works with OBS & Discord.                 |
 | **Support?**                     | Available via loader community.                |
 | **Can I customize visuals?**     | Yes, full ESP & radar customization included.  |
+ 
